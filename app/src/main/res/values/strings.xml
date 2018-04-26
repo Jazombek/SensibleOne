@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SensibleOne</string>
+    <string name="DontCare">Don\'t care</string>
+    <string name="hard_mode">Hard mode</string>
+    <string name="start">Start</string>
+    <string name="xup">X up</string>
+    <string name="xdown">X down</string>
+    <string name="yup">Y up</string>
+    <string name="ydown">Y down</string>
+    <string name="zup">Z up</string>
+    <string name="zdown">Z down</string>
+    <string name="xco">X countercl</string>
+    <string name="xcl">X clockwise</string>
+    <string name="yco">Y countercl</string>
+    <string name="ycl">Y clockwise</string>
+    <string name="zco">Z countercl</string>
+    <string name="zcl">Z clockwise</string>
+    <string name="proxi">Proxi</string>
+    <string name="noproxi">No Proxi</string>
+    <string name="gravity">Gravity</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="proximity">Proximity</string>
+    <string name="score">Score</string>
+    <string name="timer">Timer</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+    <string name="z">Z</string>
+    <string name="finished">Finished!</string>
+    <string name="secondsRemaining">Seconds remaining:</string>
+</resources>
